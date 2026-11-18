@@ -1,0 +1,9 @@
+__pycache__/
+.DS_Store
+slides/workshop.html
+slides/workshop_files/
+slides/.quarto/
+_site/
+subject-*.csv
+subject-*.edf
+subject-*.asc
