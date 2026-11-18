@@ -18,6 +18,23 @@ execute:
   echo: false
 ---
 
+## Slides and materials
+
+::: {.links style="--qr: 520px; margin-top: 70px"}
+::: {.link-card}
+![](images/qr-slides.svg){alt="QR code: slides"}
+
+**Slides**\
+<https://bernhardangele.github.io/toulouse-2026-eye-tracking-experiments-workshop/>
+:::
+::: {.link-card}
+![](images/qr-repo.svg){alt="QR code: GitHub repository"}
+
+**Code, experiments and stimuli**\
+<https://github.com/bernhardangele/toulouse-2026-eye-tracking-experiments-workshop>
+:::
+:::
+
 ## Setting up a reading study
 
 ::: {.sentence-pair}
@@ -315,9 +332,24 @@ OpenSesame's **Back-end** setting (in the General tab) chooses which graphics an
 
 **Option A: VS Code devcontainer (recommended)**
 
-1. Open the repository folder in VS Code → *Reopen in Container*
+1. Clone the repository (QR code, right) and open the folder in VS Code → *Reopen in Container*
 2. Open <http://localhost:8080> in your browser: a Linux desktop (noVNC)
 3. In the VS Code terminal: `opensesame &`. The window appears in the noVNC desktop
+
+::: {.links style="--qr: 210px"}
+::: {.link-card}
+![](images/qr-slides.svg){alt="QR code: slides"}
+
+**Slides**\
+<https://bernhardangele.github.io/toulouse-2026-eye-tracking-experiments-workshop/>
+:::
+::: {.link-card}
+![](images/qr-repo.svg){alt="QR code: GitHub repository"}
+
+**Code, experiments and stimuli**\
+<https://github.com/bernhardangele/toulouse-2026-eye-tracking-experiments-workshop>
+:::
+:::
 
 **Option B: Docker**
 
@@ -1145,3 +1177,21 @@ Save a copy of the `.osexp` under a new name, then replace the built-in material
 
 ::: {#refs}
 :::
+
+## Thank you: slides and materials
+
+::: {.links style="--qr: 520px; margin-top: 70px"}
+::: {.link-card}
+![](images/qr-slides.svg){alt="QR code: slides"}
+
+**Slides**\
+<https://bernhardangele.github.io/toulouse-2026-eye-tracking-experiments-workshop/>
+:::
+::: {.link-card}
+![](images/qr-repo.svg){alt="QR code: GitHub repository"}
+
+**Code, experiments and stimuli**\
+<https://github.com/bernhardangele/toulouse-2026-eye-tracking-experiments-workshop>
+:::
+:::
+
